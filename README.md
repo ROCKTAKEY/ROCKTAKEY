@@ -15,3 +15,6 @@
 <a href="https://github.com/ROCKTAKEY">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ROCKTAKEY&theme=nightowl" />
 </a>
+<a href="https://github.com/ROCKTAKEY">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=ROCKTAKEY&theme=darkhub" />
+</a>
