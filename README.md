@@ -7,6 +7,8 @@
 
 # Note
 I would like you to maintenance all my repositories as original one, if:
+
 - I have no activity for 1 month
 - you create issue or send me email like "Is it mainteined?" but I do not make any response or actions for 1 month
+
 I seems to be dead or seriously sick.
